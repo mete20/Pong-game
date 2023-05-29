@@ -14,16 +14,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone this repository to your local machine.
 
-'''
+```
 git clone https://github.com/mete20/Pong-game.git
 
-'''
+```
 
 2. Navigate to the project directory.
 
-''
+```
 cd pong-game
-''
+```
 
 3. Run the game.
 
