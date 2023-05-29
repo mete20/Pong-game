@@ -21,10 +21,9 @@ git clone https://github.com/mete20/Pong-game.git
 
 2. Navigate to the project directory.
 
-'''
+''
 cd pong-game
-
-'''
+''
 
 3. Run the game.
 
